@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Akashaher1512
-- 👀 I’m interested in java and c++
-- 🌱 I’m currently learning java, c++, SQL
+- 👀 I’m interested in java
+- 🌱 I’m currently learning java, SQL
 - 💞️ I’m looking to collaborate on backend development and testing 
 - 📫 How to reach me my mail is akashaher1512@gmail.com
 
